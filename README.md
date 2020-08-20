@@ -1,6 +1,6 @@
 # GreenHouseApp
 
-這個專案是在"MQTTool iOS App"的基礎上，基於控制溫室的需求。
+這個專案是在"MQTTool iOS App"的基礎上，基於控制溫室的需求，做些小改變。
 未來預計加入按鈕控制溫室，和個性化介面。
 
 以下是原著的README.md:
